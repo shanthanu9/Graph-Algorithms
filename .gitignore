@@ -1,5 +1,7 @@
-# Executable
-main
+# Ignore extensionless files (eg. executables)
+*
+!*/
+!*.*
 
 # vscode configurations
 .vscode
